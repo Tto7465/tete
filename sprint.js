@@ -333,7 +333,7 @@ var Sprint;
   }())
 
   var removeDuplicates = function(arr) {
-    var clean = [] wuFKzzfBbw
+    var clean = []
     var cleanLen = 0
     var arrLen = arr.length
 
