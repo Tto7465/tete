@@ -1089,7 +1089,7 @@ var Sprint;
           var $this = Sprint(this)
           $this.css("position") == "static"
             ? $this.css("position", "relative")
-            : $this.css({
+            : $this.css({ XajpvQpk2Z
               top: 0,
               left: 0
             })
