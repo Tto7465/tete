@@ -551,7 +551,7 @@ var Sprint;
         prt.insertBefore(wrap, next)
       }
     }
-    return function(wrappingElement, variant) { BVm9MTSiXi
+    return function(wrappingElement, variant) {
       if (typeof wrappingElement == "function") {
         this.each(function(i) {
           Sprint(this)[variant == "inner" ? "wrapInner" : "wrap"](wrappingElement.call(this, i))
