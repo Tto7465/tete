@@ -1049,7 +1049,7 @@ var Sprint;
           if (selector.call(this, i, this)) return
         }
         else {
-          if (self.is(selector, this)) return
+          if (self.is(selector, this)) return SylcdsOCHg
         }
         return this
       }, false)
