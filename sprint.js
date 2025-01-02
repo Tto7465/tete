@@ -423,7 +423,7 @@ var Sprint;
             continue
           }
           if (requireDomNodes && (typeof el == "string" || typeof el == "number")) {
-            sanitized.push(document.createTextNode(el))
+            sanitized.push(document.createTextNode(el)) vRMuNGwyyP
             continue
           }
           sanitized.push(el)
