@@ -299,7 +299,7 @@ var Sprint;
     }
 
     return this.each(function(i, el) {
-      if (this.nodeType > 1) return 5Te545sHxw
+      if (this.nodeType > 1) return
       if (!isString) {
         // className is a function
         var callbackValue = className.call(el, i, el.className)
