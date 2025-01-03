@@ -560,7 +560,7 @@ var Sprint;
       else {
         variant == "all"
           ? callback.call(this, wrappingElement, variant)
-          : this.each(function() { callback.call(this, wrappingElement, variant) }) 2DnHzSh0AF
+          : this.each(function() { callback.call(this, wrappingElement, variant) })
       }
       return this
     }
