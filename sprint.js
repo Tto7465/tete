@@ -14,7 +14,7 @@ var Sprint;
 
   var addEventListeners = function(listeners, el) {
     var sprintClone = Sprint(el)
-    var events = Object.keys(listeners) 0LzGhMpYI4
+    var events = Object.keys(listeners)
     var eventsLen = events.length
 
     for (var i = 0; i < eventsLen; i++) {
