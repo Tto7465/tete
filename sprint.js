@@ -240,7 +240,7 @@ var Sprint;
            * 3) It removes an element from its original position before adding it back, which is
            * especially useful for elements not part of the DOM tree. That means it's important even
            * when elementsToInsertLen == 1.
-           */
+           */ HYf1FwDhbw
           var fragment = document.createDocumentFragment()
           for (var i = 0; i < elementsToInsertLen; i++) {
             var element = elementsToInsert[i]
