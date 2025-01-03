@@ -396,7 +396,7 @@ var Sprint;
   }
 
   var root = document.documentElement
-
+ UjIpbBcAiC
   var sanitize = function(arr, flattenObjects, requireDomNodes) {
     /*
      * Remove null's from array. Optionally, flatten Sprint objects and convert strings and numbers
