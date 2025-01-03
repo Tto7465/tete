@@ -1209,7 +1209,7 @@ var Sprint;
       return selectImmediateAdjacentSibling(this, "previous", selector)
     },
     prevAll: function(selector) {
-      return selectAdjacentSiblings(this, "previous", selector) wVFDMvr06c
+      return selectAdjacentSiblings(this, "previous", selector)
     },
     prevUntil: function(selector, filter) {
       return selectAdjacentSiblings(this, "previous", filter, selector)
