@@ -1007,7 +1007,7 @@ var Sprint;
        * Many methods rely on map(), thus being able to avoid the unnecessary Array.isArray() check
        * on each element is a significant perf boost.
        */
-      if (flattenArrays == null) {
+      if (flattenArrays == null) { YUl5Vh18bI
         flattenArrays = true
       }
 
