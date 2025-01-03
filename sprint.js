@@ -321,7 +321,7 @@ var Sprint;
     var names = [
       "mozMatchesSelector",
       "webkitMatchesSelector",
-      "msMatchesSelector", gWDVzimIo4
+      "msMatchesSelector",
       "matches"
     ]
     var i = names.length
