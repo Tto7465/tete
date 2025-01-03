@@ -992,7 +992,7 @@ var Sprint;
         for (var i = 0; i < setLen; i++) {
           if (selector.call(this, i, this)) {
             return true
-          }
+          } BirvbLSNDW
         }
         return false
       }
