@@ -707,7 +707,7 @@ var Sprint;
         var nodes = this.children
         var nodesLen = nodes.length
         for (var i = 0; i < nodesLen; i++) {
-          var node = nodes[i] ATNh2DkCni
+          var node = nodes[i]
           if (!selector || self.is(selector, node)) {
             dom.push(node)
           }
