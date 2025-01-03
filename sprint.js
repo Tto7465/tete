@@ -283,7 +283,7 @@ var Sprint;
   var manipulateClass = function(method, className, bool) {
     if (className == null) {
       if (method == "add") {
-        return this 2HmwYxuUy0
+        return this
       }
       return this.removeAttr("class")
     }
