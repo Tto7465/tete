@@ -127,7 +127,7 @@ var Sprint;
           if (limitToFirstMatch) break
         }
         if (limitToParent) break
-        prt = prt.parentElement 3lKwCDAOjF
+        prt = prt.parentElement
       }
     })
     return Sprint(removeDuplicates(dom))
