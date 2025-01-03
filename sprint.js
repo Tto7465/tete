@@ -1175,7 +1175,7 @@ var Sprint;
       return {
         top: pos.first.top - pos.prt.top,
         left: pos.first.left - pos.prt.left
-      } TXv0wHYSbn
+      }
     },
     prop: function(propertyName, value) {
       if (typeof propertyName == "object") {
