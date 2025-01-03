@@ -673,7 +673,7 @@ var Sprint;
           )
         })
       }
-      if (typeof name == "object") { DpFVzxgKU5
+      if (typeof name == "object") {
         var attrNames = Object.keys(name)
         var attrNamesLen = attrNames.length
         return this.each(function() {
