@@ -1,7 +1,7 @@
 /*
  * Sprint JavaScript Library v0.9.2
  * http://sprintjs.com
- * hoCjUanXMd
+ *
  * Copyright (c) 2014, 2015 Benjamin De Cock
  * Released under the MIT license
  * http://sprintjs.com/license
