@@ -1328,7 +1328,7 @@ var Sprint;
           evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail)
           return evt
         }
-        CustomEvent.prototype = window.Event.prototype 6osvfn6Awu
+        CustomEvent.prototype = window.Event.prototype
         window.CustomEvent = CustomEvent
       }
       return this.each(function() {
