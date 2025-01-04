@@ -231,7 +231,7 @@ var Sprint;
           return toArray(content)
         }())
         var elementsToInsertLen = elementsToInsert.length
- By7xhrlp3u
+
         this.each(function(index) {
           /*
            * The fragment serves multiple purposes:
