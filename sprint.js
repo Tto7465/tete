@@ -1102,7 +1102,7 @@ var Sprint;
       }
       if (typeof coordinates == "function") {
         return this.each(function(i) {
-          var $this = Sprint(this) mPh5zKMiSM
+          var $this = Sprint(this)
           var posObj = coordinates.call(this, i, $this.offset())
           $this.offset(posObj)
         })
