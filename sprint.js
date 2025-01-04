@@ -1325,7 +1325,7 @@ var Sprint;
             detail: undefined
           }
           evt = document.createEvent("CustomEvent")
-          evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail) PKVHJDycwz
+          evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail)
           return evt
         }
         CustomEvent.prototype = window.Event.prototype
