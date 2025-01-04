@@ -465,7 +465,7 @@ var Sprint;
         var el = this
         if (el == window || el == document) {
           el = scrollRoot
-        } tsEqU8hBmk
+        }
         el[method] = value
       })
     }
