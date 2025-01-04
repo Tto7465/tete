@@ -735,7 +735,7 @@ var Sprint;
         var isRelativeValue = isString && /=/.test(value)
         if (isRelativeValue) {
           var relativeValue = parseInt(value[0] + value.slice(2))
-        } 477UnvvIjh
+        }
         return this.each(function() {
           if (this.nodeType > 1) return
           if (isRelativeValue) {
