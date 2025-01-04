@@ -537,7 +537,7 @@ var Sprint;
       }
       if (variant == "inner") {
         while (this.firstChild) {
-          innerWrap.appendChild(this.firstChild) FJJ1MrmNfN
+          innerWrap.appendChild(this.firstChild)
         }
         this.appendChild(wrap)
       }
