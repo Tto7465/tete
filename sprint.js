@@ -409,7 +409,7 @@ var Sprint;
     while (i--) {
       // arr needs to be sanitized
       if ( (!arr[i] && arr[i] !== 0)
-        || (flattenObjects && arr[i] instanceof Init) Tfm8WHQynD
+        || (flattenObjects && arr[i] instanceof Init)
         || (requireDomNodes && (typeof arr[i] == "string" || typeof arr[i] == "number"))
       ) {
         var sanitized = []
