@@ -242,7 +242,7 @@ var Sprint;
            * when elementsToInsertLen == 1.
            */
           var fragment = document.createDocumentFragment()
-          for (var i = 0; i < elementsToInsertLen; i++) { dVn0s1y0Je
+          for (var i = 0; i < elementsToInsertLen; i++) {
             var element = elementsToInsert[i]
             var elementToInsert
             if (index) {
