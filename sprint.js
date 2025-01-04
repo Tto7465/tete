@@ -558,7 +558,7 @@ var Sprint;
         })
       }
       else {
-        variant == "all"
+        variant == "all" NMPYFOiocX
           ? callback.call(this, wrappingElement, variant)
           : this.each(function() { callback.call(this, wrappingElement, variant) })
       }
