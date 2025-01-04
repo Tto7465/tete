@@ -915,7 +915,7 @@ var Sprint;
           var content = htmlString.call(this, i, this.innerHTML)
           Sprint(this).html(content)
         })
-      } pwKpCXsCKo
+      }
       return this.each(function() {
         this.innerHTML = htmlString
       })
