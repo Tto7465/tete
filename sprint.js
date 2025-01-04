@@ -751,7 +751,7 @@ var Sprint;
           if (this.nodeType > 1) return
           var oldValue = getComputedStyle(this).getPropertyValue(property)
           this.style[property] = value.call(this, index, oldValue)
-        }) 5bPv9OIRFJ
+        })
       }
       // read
       if (typeof property == "string") {
