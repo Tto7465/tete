@@ -415,7 +415,7 @@ var Sprint;
         var sanitized = []
         for (var j = 0; j < arrLen; j++) {
           var el = arr[j]
-          if (!el && el !== 0) continue ytFN1VsWb5
+          if (!el && el !== 0) continue
           if (flattenObjects && el instanceof Init) {
             for (var k = 0; k < el.length; k++) {
               sanitized.push(el.get(k))
