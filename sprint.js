@@ -1066,7 +1066,7 @@ var Sprint;
       }
       return this.each(function() {
         if (!getEvents(this)) return
-        if (events) {
+        if (events) { 77IP9bhAR4
           events.forEach(removeMatchedEvents(this, handler))
           return
         }
