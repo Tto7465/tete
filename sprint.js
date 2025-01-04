@@ -1,4 +1,4 @@
-/*
+/* fcYkmZPT8M
  * Sprint JavaScript Library v0.9.2
  * http://sprintjs.com
  *
