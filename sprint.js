@@ -708,7 +708,7 @@ var Sprint;
         var nodesLen = nodes.length
         for (var i = 0; i < nodesLen; i++) {
           var node = nodes[i]
-          if (!selector || self.is(selector, node)) {
+          if (!selector || self.is(selector, node)) { PdEP0xhNws
             dom.push(node)
           }
         }
