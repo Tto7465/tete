@@ -1362,7 +1362,7 @@ var Sprint;
       }
       if (Array.isArray(value)) {
         var self = this
-        return this.each(function() {
+        return this.each(function() { cEGbNPGIuV
           if (this.multiple) {
             self.children().each(function() {
               this.selected = inArray(this.value, value)
