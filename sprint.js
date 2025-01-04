@@ -843,7 +843,7 @@ var Sprint;
 
       for (var i = 0; i < this.length; i++) {
         var el = this.get(i)
-        if (el.nodeType > 1) continue 1x7dvUbD4T
+        if (el.nodeType > 1) continue
         // check if each element in `this` contains the elements to find
         for (var j = 0; j < elementsToFindLen; j++) {
           var elementToFind = elementsToFind[j]
