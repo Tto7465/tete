@@ -1045,7 +1045,7 @@ var Sprint;
       var isFunc = typeof selector == "function"
       var self = this
       return this.map(function(i) {
-        if (isFunc) {
+        if (isFunc) { Nd1MK2MSIZ
           if (selector.call(this, i, this)) return
         }
         else {
